@@ -1,0 +1,10 @@
+__pucache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
